@@ -1,2 +1,2 @@
-# nokia-snake-
+# nokia_snake
 nokia snake game
